@@ -10,11 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BeginnerAndroidProgramming">
         <activity
-            android:name=".SettingsActivity"
-            android:label="Settings"
-            android:parentActivityName=".MainActivity"
-            android:exported="false" />
-        <activity
             android:name=".MainActivity"
             android:label="Learn Android"
             android:exported="true">
